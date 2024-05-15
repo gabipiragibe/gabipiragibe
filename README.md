@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pira
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & React
 
 
 <!---
